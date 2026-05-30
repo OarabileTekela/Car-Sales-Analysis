@@ -1,8 +1,7 @@
 ## Car Sales Analysis - Project Overview
 
 This project focuses on analyzing car sales data to identify sales trends, customer purchasing patterns, product performance, and revenue growth opportunities. The analysis highlights key business drivers such as top-performing vehicle brands, high-revenue product categories, customer buying behavior, and sales performance across different time periods and regions.
-
-The project was developed to transform raw transactional sales data into meaningful business insights that can support strategic decision-making and improve overall sales performance.
+The project was developed to transform raw transactional sales data into meaningful business insights that can support strategic decision-making and improve overall sales performance. Online Presentation and Overview https://ceo-charm-showcase.lovable.app
 
 ## Problem Statement
 
